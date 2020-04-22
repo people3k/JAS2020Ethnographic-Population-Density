@@ -5,12 +5,13 @@ This supporting document should allow one to recreate the analysis performed as 
     Group/Country–name of the ethnographic society of country
     Latitude–the latitude at the geographic center of a group’s territory or a country’s territory.
     Longitude–the longitude at the geographic center of a group’s territory or a country’s territory.
-    DENSITY–Population density in people per square kilometer. This is a point in time estimatefor hunter-gatherer and agricultural groups and an average density since 1973 among nation states.
+    DENSITY–Population density in people per square kilometer. This is a point in time estimate for hunter-gatherer and     agricultural groups and an average density since 1973 among nation states.
     npp–net primary productivity estimated at the center of each group’s territory
-    npp2-Net primary productivity squared
+    nppZ-Net primary productivity z score
     biodiv–Standardized estimate of species richness at the center of each group’s range.
-    biodiv2–Species richness *100 ad squared.
+    biodivZ–Species richness z score
     pathos–Index of pathogen stress at the center of a group’s territory.
+    pathosZ-pathogen index z score
     ID–A nominal variable that denotes economy type. HG=hunter-gatherer, AG=subsistence agriculturalist, IND=modern nation state
 
 Tallavaara, M., J. T. Eronen, and M. Luoto2017. Supporting data and script for ”productivity, biodiversity, and pathogens influence the global hunter-gatherer population density” (Tallavaara et al. pnas 2018).https://doi.org/10.5281/zenodo.1167852
